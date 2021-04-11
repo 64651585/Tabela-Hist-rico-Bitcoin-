@@ -1,5 +1,5 @@
 # Tabela sobre o histórico de Valor do Bitcoin dia a dia
-Esse código insere uma tabela no terminal informando o histórico de valor da criptomoeda bitcoin baseado em dólar. Foi escrito usando somente Ruby puro. 
+Esse código insere uma tabela no terminal informando o histórico de valor da criptomoeda bitcoin baseado em dólar. Foi escrito usando somente Ruby puro. A primeira coluna informa a data da consulta, a segunda o valor em Dólar Americano no respectivo dia e a terceira informa se o valor subiu ou desceu baseado no dia anterior.
 
 Exemplo vizitando o hitórico dos últimos 20 dias:
 
